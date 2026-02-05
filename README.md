@@ -1,4 +1,4 @@
-# Incident-Handler-s-Journal
+# Incident Handler's Journal
 
 **Author:** Dariusz Piasecki  
 **Project Type:** Incident Response Documentation  

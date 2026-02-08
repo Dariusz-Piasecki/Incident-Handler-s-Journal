@@ -219,7 +219,7 @@ Based on the incident and the post-incident review, the following measures are r
 
 **Dariusz Piasecki**  
 📧 Email: dariusz.piasecki.sec@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/piaseckiphotos](https://linkedin.com/in/piaseckiphotos)  
+🔗 LinkedIn: [linkedin.com/in/piaseckiphotos](https://www.linkedin.com/in/dariusz-piasecki/)  
 🐙 GitHub: [github.com/Dariusz-Piasecki](https://github.com/Dariusz-Piasecki)
 
 ---
